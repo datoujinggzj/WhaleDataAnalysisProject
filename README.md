@@ -20,16 +20,14 @@
 ## 👉个人小红书：鲸鲸说数据🐋
 
 <div align=center>
-<img src=pic/xhs_cover.jpg width='400' />
+<img src=pic/xhs.jpg width='400' />
 </div>
 
-
-## 👉个人网站
+## 👉个人网站：
 
 <div align=center>
-<img src=pic/personal_web.png width='800' />
+<img src=pic/Personal_web.png width='800' />
 </div>
-
 
 * https://zg104.github.io
 
@@ -171,8 +169,7 @@ EDA主要做两件事：
 做好这关键一步： **Data Storytelling** ！精辟！
 
 
-
-
+![](pic/sep.gif)
 
 
 
@@ -190,7 +187,7 @@ EDA主要做两件事：
 
 不然为什么不来参与？
 
-👉先问问自己几个问题：
+### 学前五问
 
 - 你有一个沉浸式的数据分析学习氛围么？
 
@@ -205,7 +202,6 @@ EDA主要做两件事：
 1. **思维引导+代码拆解+视频讲解** 至少你在我这里不会因为看了我视频讲解而技术性劝退。
 2. **组长督促+组内讨论+组间竞争** 志同道合的人就在身边，随时组队随时讨论交流，既认识很多朋友，又可以讨论问题。
 3. **面试提升+case梳理+简历完善** 没有portfolio、website不着急么？海外求职也好、国内求职也罢，一份闭环的项目流程经历会让你超过很多peers。
-
 
 
 ### 鲸析的优势在哪？
