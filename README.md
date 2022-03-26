@@ -20,14 +20,16 @@
 ## 👉个人小红书：鲸鲸说数据🐋
 
 <div align=center>
-<img src=pic/xhs.jpg width='400' />
+<img src=pic/xhs_cover.jpg width='400' />
 </div>
 
-## 👉个人网站：
+
+## 👉个人网站
 
 <div align=center>
-<img src=pic/Personal_web.png width='800' />
+<img src=pic/personal_web.png width='800' />
 </div>
+
 
 * https://zg104.github.io
 
