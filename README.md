@@ -31,23 +31,32 @@
 
 * https://zg104.github.io
 
-
-
 ## 👉项目简介
 
 
 <div align=center>
-<img src=pic/covid_logo.png width='800' />
+<img src=pic/covid_logo.png width='400' />
 </div>
 
-- 数据提供者：The New York Times
+### CHINA vs. US
+
+
+#### CHINA数据源：**JHU CSSE**
+
+
+<div align=center>
+<img src=pic/jhu.png width='400' />
+</div>
+
+- [CHINA数据链接🔗](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+
+#### US数据源：**The New York Times**
 
 <div align=center>
 <img src=pic/nytimes.png width='400' />
 </div>
 
-- [数据链接🔗](https://datasetsearch.research.google.com/search?query=covid-19&docid=L2cvMTFqOWNianljMw%3D%3D)
-
+- [US数据链接🔗](https://datasetsearch.research.google.com/search?query=covid-19&docid=L2cvMTFqOWNianljMw%3D%3D)
 
 ## 👉项目fork
 
