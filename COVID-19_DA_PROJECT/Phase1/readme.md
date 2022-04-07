@@ -1,3 +1,3 @@
-<div align=center>
-<img src=../../pic/Covid_Proposal.gif width='400' />
-</div>
+# 第一阶段
+
+![输入图片说明](../../pic/getdata.png)
