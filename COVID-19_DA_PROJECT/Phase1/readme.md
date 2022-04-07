@@ -1,3 +1,16 @@
-# 第一阶段
+# 第一阶段 数据获取&清洗
 
-![输入图片说明](../../pic/getdata.png)
+
+## 数据获取
+
+<div align=center>
+<img src=../../pic/jhu.png width='600' />
+</div>
+
+
+链接：
+
+<div align=center>
+<img src=../../pic/getdata.png width='600' />
+</div>
+
