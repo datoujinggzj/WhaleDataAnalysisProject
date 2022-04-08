@@ -61,3 +61,15 @@
 <div align=center>
 <img src=../../pic/data_cleaning.png width='600' />
 </div>
+
+接下来，我们将进行数据清洗（data cleaning）。
+
+这一阶段非常考验数据分析师的【data manipulation】能力！
+
+要点：
+
+- 从global数据中提取中国的数据、从US数据中提取美国的数据（注意缺失值和未知值的处理）
+- 注意用`pd.to_datetime()`进行时间转换
+- 计算每日新增数据
+- 根据行政区确诊数降序排列
+
