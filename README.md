@@ -33,13 +33,15 @@
 
 ## 👉项目简介
 
+### 上海新冠疫情数据分析项目
+
+#### 详情
+
+请移步：https://gitee.com/gzjzg/whale-data-analysis-project/tree/master/COVID-19_DA_PROJECT
 
 <div align=center>
 <img src=pic/covid_logo.png width='400' />
 </div>
-
-### CHINA vs. US
-
 
 #### 数据源：**JHU CSSE**
 
