@@ -16,7 +16,7 @@
 👇👇👇点击👇👇👇
 
 <div align=center>
-<img src=https://github.com/datoujinggzj/WhaleDataAnalysisProject/blob/master/pic/click.gif?raw=true width='800'/>
+<img src=https://github.com/datoujinggzj/WhaleDataAnalysisProject/blob/master/pic/click.gif?raw=true width='100'/>
 </div>
 
 <div align=center>
