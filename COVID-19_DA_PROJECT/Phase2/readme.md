@@ -16,6 +16,10 @@
 👇👇👇点击👇👇👇
 
 <div align=center>
+<img src=https://github.com/datoujinggzj/WhaleDataAnalysisProject/blob/master/pic/click.gif?raw=true width='800'/>
+</div>
+
+<div align=center>
 <a href='https://youtu.be/vJCvyPof5gc'> 
 <img src=https://github.com/datoujinggzj/WhaleDataScienceProject/blob/master/pic/phase2_eda.png?raw=true width='800'/>
 </div>
