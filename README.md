@@ -43,7 +43,7 @@
 <img src=pic/covid_logo.png width='400' />
 </div>
 
-#### 数据源：**JHU CSSE**
+#### 数据源：**JHU CSSE & 上海卫健委**
 
 
 <div align=center>
@@ -58,9 +58,9 @@
 
 - [官网链接🔗](https://wsjkw.sh.gov.cn/yqtb/index.html)
 
-<iframe width="876" height="419" src="https://www.youtube.com/embed/gGZZwDCbwmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [使用WebScraper获取数据](https://youtu.be/gGZZwDCbwmM)
 
-
+---
 
 ## 👉项目fork
 
